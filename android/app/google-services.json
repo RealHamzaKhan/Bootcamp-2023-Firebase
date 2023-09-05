@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "200725392213",
+    "project_id": "bootcamp-tutorail",
+    "storage_bucket": "bootcamp-tutorail.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200725392213:android:e499985d07266296ad1ddc",
+        "android_client_info": {
+          "package_name": "com.example.firebase_tutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "200725392213-3hp7fk799v35mm9d864ivanv2ku4s3p4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAc6ye_QA30aEtAeXRqvABxb02ZCuxQQA0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "200725392213-3hp7fk799v35mm9d864ivanv2ku4s3p4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
